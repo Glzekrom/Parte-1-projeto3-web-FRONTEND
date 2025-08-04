@@ -3,13 +3,21 @@ coloque todas as pasta e arquivos numa pasta chamada "SPA". fiz desta forma pois
 
 PROJETO FINAL/
 ├── WebServiceLivros/         # Backend .NET
+
 │   ├── Dockerfile
+
 │   └── ...
+
 ├── SPA/                      # Frontend React
+
 │   ├── Dockerfile
+
 │   └── ...
+
 └── deploy/
+
     └── docker-compose.yml
+
 
 
 
